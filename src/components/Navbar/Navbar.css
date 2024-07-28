@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:rgb(236, 236, 236);
+    padding: 10px 20px;
+
+}
+
+.navbar-logo{
+    color:rgb(29, 48, 65);
+    font-size: 1.5rem;
+    font-weight: bold;
+
+}
